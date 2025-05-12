@@ -1,2 +1,3 @@
 # Shell-Script-mini_projects
-Mini projects of shell s
+Mini projects related to shell scripting that you can try and enhance your skills.
+I'll be uploading more scripts...
